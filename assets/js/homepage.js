@@ -11,6 +11,6 @@ var getUserRepos = function(user) {
     });
   };
 
-  getUserRepos("davinci");
+  getUserRepos("lernantino");
 
 
